@@ -148,3 +148,7 @@ Tensorflow(Introduction)
 Sci-kit Learn(ML Algorithms)
 
 OpenAI Gym (Reinforcement Learning)
+
+flaskenv file where you can store environment variables for flask. After that you just have to run your app with flask run and can access your app at that port. Please note that FLASK_RUN_HOST defaults to 127.0. 0.1 and FLASK_RUN_PORT defaults to 5000 .
+
+Deploy Machine Learning Model using Flask
