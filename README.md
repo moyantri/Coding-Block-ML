@@ -152,3 +152,14 @@ OpenAI Gym (Reinforcement Learning)
 flaskenv file where you can store environment variables for flask. After that you just have to run your app with flask run and can access your app at that port. Please note that FLASK_RUN_HOST defaults to 127.0. 0.1 and FLASK_RUN_PORT defaults to 5000 .
 
 elaborate how Machine Learn Models are deployed on production using Flask API.
+Why Flask?
+
+1.Easy to use.
+
+2. Built in development server and debugger.
+
+3. Integrated unit testing support.
+
+4. RESTful request dispatching.
+
+5. Extensively documented.
